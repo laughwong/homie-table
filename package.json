@@ -10,6 +10,10 @@
     "table",
     "vue"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/laughwong/homie-table.git"
+  },
   "author": "haloxy",
-  "license": "ISC"
+  "license": "MIT"
 }
