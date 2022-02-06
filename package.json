@@ -15,5 +15,9 @@
     "url": "https://github.com/laughwong/homie-table.git"
   },
   "author": "haloxy",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "vite": "^2.7.13",
+    "vue": "^3.2.29"
+  }
 }
